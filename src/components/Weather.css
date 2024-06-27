@@ -68,3 +68,24 @@
     width: 26px;
     margin-top: 10px;
 }
+
+
+
+@media (max-width: 600px) {
+    .weather {
+      padding: 20px;
+    }
+    .temperature {
+      font-size: 50px;
+    }
+    .location {
+      font-size: 30px;
+    }
+    .weather-data .col {
+      font-size: 18px;
+    }
+    .weather-data .col span {
+      font-size: 14px;
+    }
+  }
+  
